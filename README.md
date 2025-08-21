@@ -1,4 +1,12 @@
-## Hi there 👋
+Hi. I'm 叶子凌锋/Ye Zilingfeng/Honsam Yip.
+
+I used to be a research engineer @Bytedance, Seed, where I designed and implemented the company's first large-scale RL system based on Ray to exclusively power the training of all production releases of the Seed foundation model (a.k.a Doubao). 
+
+This system became a research paper [HybridFlow](https://arxiv.org/abs/2409.19256) and was turned open-source as [VeRL](https://github.com/volcengine/verl), gaining significant traction and acclaim within the community.
+
+My journey began in physics, driven by a desire to map the material world. Yet, the greatest territory—the nature of intelligence and consciousness itself—remained uncharted. This fundamental question guided my path from the study of matter to the engineering of mind, grounding my work in the practical challenges of distributed systems and large-scale AI infrastructure.
+
+I believe we are living in a pivotal moment. For the first time in human history, LLMs allow us to turn the lens of science inward, to study intelligence as an objective phenomenon. My work is to build the very instruments for this exploration. Grounded in a deep respect for science, I am motivated by a belief in the ultimate power of intelligence: its capacity for self-reference, which will enable it to endlessly understand and transcend itself.
 
 <!--
 **YipZLF/yipzlf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
