@@ -2,8 +2,8 @@
 
 <p align="left">
   <a href="mailto:yipzlf@gmail.com"><img src="https://img.shields.io/badge/Email-yipzlf@gmail.com-blue?style=flat-square" alt="email"></a>
-  <a href="https://scholar.google.com/citations?user=xKt2bQkAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-Profile-b31b1b?style=flat-square" alt="googlescholar"></a>
-  <a href="https://www.linkedin.com/in/yipzlf"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" alt="linkedin"></a>
+  <a href="https://scholar.google.com/citations?user=xKt2bQkAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-YE_Zilingfeng-b31b1b?style=flat-square" alt="googlescholar"></a>
+  <a href="https://www.linkedin.com/in/yipzlf"><img src="https://img.shields.io/badge/LinkedIn-yipzlf-green?style=flat-square&logo=linkedin" alt="linkedin"></a>
 </p>
 
 ---
