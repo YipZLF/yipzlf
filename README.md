@@ -1,4 +1,4 @@
-# 叶子凌锋 / Ye Zilingfeng / Honsam Yip
+# 叶子凌锋 / Ye Zilingfeng / Enoch Yip
 
 <p align="left">
   <a href="mailto:yipzlf@gmail.com"><img src="https://img.shields.io/badge/Email-yipzlf@gmail.com-blue?style=flat-square" alt="email"></a>
@@ -20,7 +20,7 @@
 
 > 人猿相揖别. Apes and humans part ways.
 
-Hi. I'm 叶子凌锋/Ye Zilingfeng/Honsam Yip.
+Hi. I'm 叶子凌锋/Ye Zilingfeng/Enoch Yip.
 
 
 
